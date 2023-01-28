@@ -1,5 +1,6 @@
-## bookstore
-Building a bookstore management API with sql database e.g mysql
+## Mysql form
+
+A signup/registration form that accepts user details through a frontend or API call and stores the details in a mysql database
 ## Install
 ### Any version of [golang](https://go.dev/dl/)
 ### `gorilla/mux` package
